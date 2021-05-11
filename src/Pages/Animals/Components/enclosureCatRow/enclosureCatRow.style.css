@@ -1,0 +1,10 @@
+.enclosurecatrow-container{
+        width: 280px;
+        margin: 0 auto;
+        min-height: 13px;
+        border:3px solid #0fce65;
+        margin-top: 1px;
+        font-weight: bold; 
+        text-align: center;
+        border-radius: 6px;
+}
